@@ -2,7 +2,5 @@
 
 Laboratoriski vezba 1
 
-VIDEO
-
-<video src="2025-11-11 17-22-19.mkv" controls width="600"></video>
+[![Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
