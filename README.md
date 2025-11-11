@@ -2,4 +2,7 @@
 
 Laboratoriski vezba 1
 
-[![Video](https://img.youtube.com/vi/6hnos6x1g0w/maxresdefault.jpg)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/6hnos6x1g0w))
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6hnos6x1g0w"></iframe>
+
+Dodaten link: https://youtu.be/6hnos6x1g0w
+
